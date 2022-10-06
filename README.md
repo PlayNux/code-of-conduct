@@ -32,8 +32,8 @@ To ensure a productive, open, vibrant community, here are a few ground rules:
 
    To ensure this is a community where people feel comfortable to contribute productive criticism, thoughts, and ideas - assume that everyone here has good intention before we respond, or contribute to the group.
 
-This Code is not complete. It is an inspirational guide to making awesome things together. It speaks to the core of the System76 environment, where smart people can make really cool things they love.
+This Code is not complete. It is an inspirational guide to making awesome things together.where people can make really cool things they love.
 
-The PlayNux Code of Conduct is licensed under the Creative Commons Attribution-Share Alike 3.0 license. You may re-use it for your own project, and modify it as you wish, just please allow others to use your modifications and give credit to the Pop\!\_OS and Ubuntu Projects.
+The PlayNux Code of Conduct is licensed under the Creative Commons Attribution-Share Alike 3.0 license. You may re-use it for your own project, and modify it as you wish, just please allow others to use your modifications and give credit to the PlayNux and Ubuntu Projects.
 
-Our Code of Conduct is based on [Ubuntu's Code of Conduct](https://www.ubuntu.com/about/about-ubuntu/conduct).
+Our Code of Conduct is based on [Ubuntu & Pop OS Code of Conduct](https://www.ubuntu.com/about/about-ubuntu/conduct).
